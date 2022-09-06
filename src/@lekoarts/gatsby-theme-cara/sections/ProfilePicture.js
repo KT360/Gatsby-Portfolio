@@ -15,7 +15,7 @@ function ProfilePicture()
 {
     return(
         <div style={p_style} >
-            <img src={'pfp.png'} style={{width:220, height:220, borderRadius:110}} alt="test"/>
+            <img src={'pfp.jpg'} style={{width:220, height:220, borderRadius:110}} alt="test"/>
         </div>
     );
 }
