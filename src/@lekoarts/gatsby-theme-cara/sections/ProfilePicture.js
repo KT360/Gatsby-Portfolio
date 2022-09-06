@@ -2,8 +2,8 @@ import React from "react";
 
 const p_style = 
 {
-    width:240,
-    height:240,
+    width:200,
+    height:200,
     backgroundColor:'#0779eb',
     borderRadius:120,
     display: 'flex',
